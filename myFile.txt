@@ -1,4 +1,9 @@
 This is myFile
+<<<<<<< HEAD
 commit: Lưu lại trạng thái của index
 add: Đăng ký thay đổi add ở index
 commit-amend
+=======
+
+pull
+>>>>>>> parent of b161993 (Update myFile.txt)
