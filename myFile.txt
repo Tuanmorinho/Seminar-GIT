@@ -2,4 +2,3 @@ This is myFile
 commit: Lưu lại trạng thái của index
 add: Đăng ký thay đổi add ở index
 commit-amend
-commit-revert
