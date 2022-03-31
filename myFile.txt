@@ -1,14 +1,5 @@
 This is myFile
-<<<<<<< HEAD
-<<<<<<< HEAD
 commit: Lưu lại trạng thái của index
 add: Đăng ký thay đổi add ở index
 commit-amend
-=======
-
-pull
->>>>>>> parent of b161993 (Update myFile.txt)
-=======
-commit: Lưu lại trạng thái của index
-add: Đăng ký thay đổi add ở index
->>>>>>> 808fe33df8d30edc8ce93a6d74eaa1a26178cced
+commit-revert
