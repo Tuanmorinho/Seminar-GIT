@@ -1,1 +1,8 @@
-Đây là nhánh của Ngần 2
+This is myFile
+add: Them vao stage
+commit: Lưu lại trạng thái của index
+
+
+demo pull
+
+fix conflict nhanh ngan 2
