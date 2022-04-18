@@ -1,6 +1,6 @@
 This is myFile
 add: Them vao stage
-<<<<<<< HEAD
 commit: Lưu lại trạng thái của index
 
-demo commit
+
+demo pull
